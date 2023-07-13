@@ -2,9 +2,9 @@ name: IASTATE Theme
 description: Drupal 9 theme for Iowa State University websites
 type: theme
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 version: "1.7.7"
-base theme: stable
+base theme: stable9
 libraries: 
   - iastate_theme/global-css
   - iastate_theme/global-js
